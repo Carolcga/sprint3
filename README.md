@@ -1,4 +1,4 @@
-Configuracion Inicial 
+﻿ Configuracion Inicial 
 
 Git global setup
 
@@ -32,3 +32,11 @@ Agregar contenido al proyecto
 Agregar mas información al proyecto Agregar contenido al proyecto 
 Agregar mas información al proyecto 
 ok
+
+Integrantes grupo 8 "LaRockola.com":
+
+• Andrés Felipe Ramírez.
+• Diego Becerra.
+• Carolina Castillo
+• María Lucelly Ramírez.
+• Nidia Karina Garzon
